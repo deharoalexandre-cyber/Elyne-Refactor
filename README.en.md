@@ -3,6 +3,9 @@
 **Languages: English · [Français](README.md)**  
 **Catalog status: Production (catalog status)**
 
+**Proprietary documentation — all rights reserved.** No reuse beyond GitHub platform functions is authorized without the rights holders' written consent. [Rights notice](NOTICE.md).
+[Elyne Corp product map](https://github.com/deharoalexandre-cyber/deharoalexandre-cyber)
+
 A local code-analysis and modernization product: it identifies defects and technical debt, proposes justified changes, and produces outputs for human review.
 
 ## Presented capabilities

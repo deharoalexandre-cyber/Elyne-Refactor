@@ -3,6 +3,9 @@
 **Langues : Français · [English](README.en.md)**  
 **Statut affiché au catalogue : Production (statut du catalogue)**
 
+**Documentation propriétaire — tous droits réservés.** Aucun réemploi hors des fonctions de GitHub n'est autorisé sans l'accord écrit des titulaires des droits. [Notice de droits](NOTICE.md).
+[Carte des produits Elyne Corp](https://github.com/deharoalexandre-cyber/deharoalexandre-cyber)
+
 Un produit local d'analyse et de modernisation de code : il cherche les défauts et la dette technique, propose des corrections motivées, puis produit des sorties destinées à la revue humaine.
 
 ## Capacités présentées
